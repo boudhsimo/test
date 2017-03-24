@@ -1,3 +1,0 @@
-cms:web content management c un software qui permet la gestion standard du contenu 
-WCMS :(cms module contient cmscokpit (pour le backoffice) cmslibrary utilisé kn on veut utilisé le front office)
-pour utiliser wcms il nous faut l'extension basecommerce(dnc on n'utilise wcms que si on a un site ecomerce)
